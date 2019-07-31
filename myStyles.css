@@ -1,0 +1,53 @@
+
+h1{
+  text-align: center;
+}
+#image{
+  height:50px;
+  width:70px;
+  float:right;
+}
+#image2{
+  height:50px;
+  width:70px;
+  float:left;
+}
+img{
+  float:right;
+  height: 300px ;
+  width:250px;
+}
+button{
+  height: 100px ;
+  width: 200px;
+  font-size: 35px;
+  background-color: palegreen;
+}
+p{
+  margin-right: auto;
+  font-size: 64;
+  font-family:'Coming Soon', cursive;
+}
+
+body{
+  background-color: aquamarine;
+}
+#heading{
+  color: #2B65EC;
+}
+#theater{
+  float: left;
+}
+#beauty{
+  float:right;
+  width:400px;
+  height:200px;
+}
+#shows{
+  font-size: 24px;
+}
+.images{
+  float:right;
+  height:150px;
+  width: 290px
+}
